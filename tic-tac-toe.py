@@ -1,3 +1,6 @@
+#Assignment: W01 Prove: Developer
+#Author: Moises Hernandez
+
 grid = {
     1:"1",
     2:"2",
